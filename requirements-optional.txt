@@ -1,0 +1,2 @@
+# 免费搜索兜底（无 Tavily/Serper/Bocha 密钥时使用）
+ddgs>=9.0

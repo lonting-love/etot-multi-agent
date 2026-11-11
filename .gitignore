@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+logs/
+eval/reports/
+.vscode/
+.streamlit/secrets.toml
